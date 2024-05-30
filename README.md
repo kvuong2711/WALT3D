@@ -1,6 +1,6 @@
 # WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects under Occlusion
 
-**CVPR 2024 (Oral, Top 90/11,532)**
+**CVPR 2024 (Oral, Top 90/11532)**
 
 [![Project page](https://img.shields.io/badge/Project-Website-1081c2)](https://www.cs.cmu.edu/~walt3d/)
 [![arXiv](https://img.shields.io/badge/arXiv-2312.02158-darkred)](https://arxiv.org/abs/2403.19022)
